@@ -1,7 +1,6 @@
 ### Hello World! 👋
 
 - 🔭 I’m currently working on: My Web Development Skills.
-- 
 - 🌱 I’m currently learning: Javascript, Node.JS, React.JS, Firebase and more.
 
 - 📫 How to reach me:
