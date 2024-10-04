@@ -1,4 +1,4 @@
-### Hello World! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code+PL&weight=800&size=24&pause=1000&repeat=false&width=435&lines=Hello+There+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on: My Web Development Skills.
 - 🌱 I’m currently learning: Javascript, Node.JS, React.JS, Firebase and more.
