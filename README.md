@@ -9,7 +9,7 @@ I'm Eshayat Al-Wasiu, a passionate frontend web developer and a designer. With 6
 * 🌍  I'm based in Bangladesh
 * 🖥️  See my portfolio [here](http://eshayat.com)
 * ✉️  You can contact me at [contact@eshayat.com](mailto:contact@eshayat.com)
-* 🧠  I'm learning React, Astro, TypeScript, and more...
+* 🧠  Always learning
 * 🤝  I'm open to collaborating on graphics design projects
 * ⚡  I'm secretly Batman... but don't tell anyone 🤫
 
