@@ -7,7 +7,7 @@ Web Developer, Graphics Designer
 I'm Eshayat Al-Wasiu, a passionate frontend web developer and a designer. With 6 years of experience crafting digital experiences, I specialize in transforming ideas into engaging and functional websites. My skill set encompasses frontend development, web design, and graphics design, allowing me to deliver comprehensive solutions tailored to my clients' needs. I'm providing service worldwide.
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio [here](http://web.eshayat.com)
+* 🖥️  See my portfolio [here](http://eshayat.com)
 * ✉️  You can contact me at [contact@eshayat.com](mailto:contact@eshayat.com)
 * 🧠  Always learning
 * 🤝  I'm open to collaborating on graphics design projects
