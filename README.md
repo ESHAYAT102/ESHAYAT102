@@ -27,10 +27,6 @@ I’m Eshayat Al-Wasiu, a passionate frontend web developer and a designer. With
 
 ### Certificates
 
-<img width="600" src="./certificates/PH_B11.png">
+<img width="256" src="./certificates/PH_B11.png"> <span width="64px"></span> <img width="256" src="./certificates/AI_Python.png">
 
-<img width="600" src="./certificates/Junior_Web_Developer.png">
-
-<img width="600" src="./certificates/Junior_Python_Programmer.png">
-
-<img width="600" src="./certificates/AI_Python.png">
+<img width="256" src="./certificates/Junior_Web_Developer.png"> <span width="64px"></span> <img width="256" src="./certificates/Junior_Python_Programmer.png">
