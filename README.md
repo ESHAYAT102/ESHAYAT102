@@ -9,7 +9,7 @@ I’m Eshayat Al-Wasiu, a passionate frontend web developer and a designer. With
 *   🌍  I'm based in Bangladesh
 *   🖥️  See my portfolio at [here](http://eshayat.com)
 *   ✉️  You can contact me at [eshayat.wasiu@gmail.com](mailto:eshayat.wasiu@gmail.com)
-*   🚀  I'm currently working on [ESYT](http://esyt.eshayat.com) & [Open-Hub](http://open-hub.eshayat.com)
+*   🚀  I'm currently working on [ESYT](http://esyt.eshayat.com) & [Xenon](http://xenon.eshayat.com)
 *   🧠  I'm currently learning Go, TypeScript, and Python
 *   👥  I'm looking to collaborate on designs & frontend projects
 *   💬  Ask me about I’m secretly Batman… but don’t tell anyone 🤫
