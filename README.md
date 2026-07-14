@@ -4,8 +4,8 @@ Hi 👋 My name is Eshayat Al-Wasiu
 Designer & Developer
 
 *   🌍  I'm based in Bangladesh
-*   🖥️  See my portfolio at [here](http://eshayat.com)
-*   🚀  I'm currently working on [ESYT](http://esyt.eshayat.com) & [Xenon](http://xenon.eshayat.com)
+*   🖥️  See my portfolio [here](http://eshayat.com)
+*   🚀  I'm currently working on [Xenon](http://xenon.eshayat.com)
 *   ✉️  You can contact me at [contact@eshayat.com](mailto:contact@eshayat.com)
 *   🧠  I'm currently learning Go, and Python
 *   👥  I'm looking to collaborate on designs & frontend projects
