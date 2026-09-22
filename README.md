@@ -12,6 +12,8 @@ Designer & Developer
 
 ### Certificates
 
+<img width="256" src="./certificates/Linux_BootDEV.jpeg"> <span width="64px">
+
 <img width="256" src="./certificates/PH_B11.png"> <span width="64px"></span> <img width="256" src="./certificates/AI_Python.png">
 
 <img width="256" src="./certificates/Junior_Web_Developer.png"> <span width="64px"></span> <img width="256" src="./certificates/Junior_Python_Programmer.png">
